@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Varsan</h1>
-<h3 align="center">I’m really excited about artificial intelligence (AI) and machine learning (ML)! I love exploring new technologies and pushing the limits of what’s possible. Building real-time web applications and diving into machine learning fascinates me, especially as I discover the amazing potential of deep learning. Every day is an adventure as I learn new techniques and adapt to the fast-paced tech world. My goal? To keep refining my skills, challenge my limits, and create something impactful.</h3>
+<h3 align="center">I’m really passionate about artificial intelligence, machine learning and real-time applications! I love exploring new technologies and pushing the limits of what’s possible. Building real-time web applications and diving into machine learning fascinates me, especially as I discover the amazing potential of deep learning. Every day is an adventure as I learn new techniques and adapt to the fast-paced tech world. My goal? To keep refining my skills, challenge my limits, and create something impactful.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaceav&label=Profile%20views&color=0e75b6&style=flat" alt="anaceav" /> </p>
 
-- 🔭 I’m currently working on **AI Mock Interview Platform and Stock Market Forecasting using ARIMA, LSTM and Prophet(Hybrid Approach)**
+- 🔭 I’m currently working on **AI Mock Interview Platform and Stock Market Forecasting using ARIMA, LSTM and Prophet (Hybrid Approach)**
 
 - 📫 How to reach me **ajayvarsan2@gmail.com**
 

@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaceav&label=Profile%20views&color=0e75b6&style=flat" alt="anaceav" /> </p>
 
-- 🔭 I’m currently working on **AI Mock Interview Platform and Stock Market Forecasting using ARIMA, LSTM and Prophet (Hybrid Approach)**
-
 - 📫 How to reach me **ajayvarsan2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
